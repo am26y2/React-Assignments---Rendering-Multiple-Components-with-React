@@ -4,8 +4,8 @@ import "../styles/App.css";
 const App = () => {
   return (
     <>
-      <div data-ns-test="project-name">E-commerce</div>
-      <div data-ns-test="project-description">Old Books buy and sell</div>
+      <div data-ns-test="project-name">Poojapath App</div>
+      <div data-ns-test="project-description">sell agarbati</div>
     </>
   );
 };
