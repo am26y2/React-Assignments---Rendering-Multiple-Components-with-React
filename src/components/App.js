@@ -7,9 +7,9 @@ const App = () => {
       <h1 data-ns-test="project-name" value="project-name">
         Agarbati Business
       </h1>
-      <dl data-ns-test="project-name" value="project-description">
-        A small application.
-      </dl>
+      <p data-ns-test="project-name" value="project-description">
+        <dl>A small application.</dl>
+      </p>
     </>
   );
 };
