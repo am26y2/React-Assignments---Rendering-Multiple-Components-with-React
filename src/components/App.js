@@ -4,10 +4,10 @@ import "../styles/App.css";
 const App = () => {
   return (
     <>
-      <p id="data-ns-test" value="project-name">
+      <h1 data-ns-test="project-name" value="project-name">
         Agarbati Business
-      </p>
-      <p id="data-ns-test" value="project-description">
+      </h1>
+      <p data-ns-test="project-name" value="project-description">
         A small application.
       </p>
     </>
